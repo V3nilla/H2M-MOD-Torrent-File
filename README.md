@@ -9,10 +9,13 @@ Hello everyone. Lxstwxrden here, i created a torrents to make gamers life - easi
 
 ------------------------------------------
 
+After downloading the game and all files, please, uncheck **Read Only** option from all files that are in players2 folder
+
+------------------------------------------
+
 Video Installation - https://www.youtube.com/watch?v=wDvk1dGwLTw
 
 Text Installation:
-After downloading the game and all files, please, uncheck **Read Only** option from all files that are in players2 folder
 
 Just download **H1 + H2M by lxstwxrden** torrent with full game, open downloaded game folder and open **h2m-mod.exe**
 
