@@ -4,6 +4,7 @@ Hello everyone. Lxstwxrden here, i created a torrents to make gamers life - easi
 
 ## Installation
 BIG NOTE! uTorrent is a buggy shit, if you're getting **Connecting To Peers...**, uninstall uTorrent and download latest available version of qBitTorrent
+2ND BIG NOTE! MASTER-SERVER IS UP!
 
 Video Installation - https://www.youtube.com/watch?v=1vvUTJdgzLM
 
@@ -20,7 +21,7 @@ For H1 DLC Maps - download **H1 DLCs** torrent, copy **english** folder and past
 
 Unlocking All - Download **H2M Unlock All** archive, open it, copy and paste **players2** folder to game folder(where .exe's)
 
-Fixing Server List - Download **favourites.json** from **Working Server List** folder, copy and paste to **players2** folder in root game directory
+Fixing Server List - Download **h2m-mod.exe** from **Working Server List** folder, copy and paste with replacement to **root** game folder 
 
 Enjoy!
 
