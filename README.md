@@ -1,5 +1,7 @@
 # STAR THIS REPO FOR THE LOVE OF GOD AND COD COMMUNITY
 
+Hello everyone. Lxstwxrden here, i created a torrents to make gamers life - easier.
+
 ## Installation
 Just download **H1 + H2M by lxstwxrden** torrent with full game, open downloaded game folder and open **h2m-mod.exe**
 
