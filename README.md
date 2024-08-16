@@ -9,7 +9,7 @@ Hello everyone. Lxstwxrden here, i created a torrents to make gamers life - easi
 
 ------------------------------------------
 
-Video Installation - https://www.youtube.com/watch?v=1vvUTJdgzLM
+Video Installation - https://www.youtube.com/watch?v=wDvk1dGwLTw
 
 Text Installation:
 After downloading the game and all files, please, uncheck **Read Only** option from all files that are in players2 folder
