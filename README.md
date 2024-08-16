@@ -5,6 +5,8 @@ Hello everyone. Lxstwxrden here, i created a torrents to make gamers life - easi
 ## Installation
 BIG NOTE! uTorrent is a buggy shit, if you're getting **Connecting To Peers...**, uninstall uTorrent and download latest available version of qBitTorrent
 
+After downloading the game and all files, please, uncheck **Read Only** option from all files that are in players2 folder
+
 Just download **H1 + H2M by lxstwxrden** torrent with full game, open downloaded game folder and open **h2m-mod.exe**
 
 If you already have installed copy of the game - Just download **H2M-MOD Files** torrent, copy all files from downloaded folder, and paste into the game folder and open **h2m-mod.exe**
