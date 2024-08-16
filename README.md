@@ -3,8 +3,11 @@
 Hello everyone. Lxstwxrden here, i created a torrents to make gamers life - easier.
 
 ## Installation
-BIG NOTE! uTorrent is a buggy shit, if you're getting **Connecting To Peers...**, uninstall uTorrent and download latest available version of qBitTorrent
-2ND BIG NOTE! MASTER-SERVER IS UP!
+**BIG NOTE! uTorrent is a buggy shit, if you're getting **Connecting To Peers...**, uninstall uTorrent and download latest available version of qBitTorrent**
+
+**2ND BIG NOTE! MASTER-SERVER IS UP!**
+
+------------------------------------------
 
 Video Installation - https://www.youtube.com/watch?v=1vvUTJdgzLM
 
