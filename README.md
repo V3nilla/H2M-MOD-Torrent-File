@@ -18,13 +18,15 @@ Just download **H1 + H2M by lxstwxrden** torrent with full game, open downloaded
 
 If you already have installed copy of the game - Just download **H2M-MOD Files** torrent, copy all files from downloaded folder, and paste into the game folder and open **h2m-mod.exe**
 
-For maps - download **h2m-usermaps** torrent, copy downloaded h2m-usermaps folder and paste it to game folder(where .exe's)
+For maps - Download **h2m-usermaps** torrent, copy downloaded h2m-usermaps folder and paste it to game folder(where .exe's)
 
-For H1 DLC Maps - download **H1 DLCs** torrent, copy **english** folder and paste it, where another **english** folder exist, copy **.ff** files and paste where all other **.ff's** exist.
+For H1 DLC Maps - Download **H1 DLCs** torrent, copy **english** folder and paste it, where another **english** folder exist, copy **.ff** files and paste where all other **.ff's** exist.
 
 Unlocking All - Download **H2M Unlock All** archive, open it, copy and paste **players2** folder to game folder(where .exe's)
 
 Fixing Server List - Download updated **h2m-mod.exe** from **Working Server List** folder, copy and paste with replacement to **root** game folder 
+
+Fixing Earrape Looped Intro - Download **default.bik**, copy and paste it with replacement to video(or raw/video) folder that in **root** game folder
 
 Enjoy!
 
