@@ -11,6 +11,11 @@ For maps - download **h2m-usermaps** torrent, copy downloaded h2m-usermaps folde
 
 Enjoy!
 
+## FOR ANY QUESTIONS
+Steam - https://steamcommunity.com/id/lxstwxrdenz/
+
+Discord - lxstwxrden. (yes, with a dot)
+
 ## H2M DISCORD SERVERS
 H2M Backup - https://discord.gg/JxYz9kSyRs
 
