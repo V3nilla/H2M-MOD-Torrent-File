@@ -24,7 +24,7 @@ For H1 DLC Maps - download **H1 DLCs** torrent, copy **english** folder and past
 
 Unlocking All - Download **H2M Unlock All** archive, open it, copy and paste **players2** folder to game folder(where .exe's)
 
-Fixing Server List - Download **h2m-mod.exe** from **Working Server List** folder, copy and paste with replacement to **root** game folder 
+Fixing Server List - Download updated **h2m-mod.exe** from **Working Server List** folder, copy and paste with replacement to **root** game folder 
 
 Enjoy!
 
