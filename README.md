@@ -16,6 +16,8 @@ If you already have installed copy of the game - Just download **H2M-MOD Files**
 
 For maps - download **h2m-usermaps** torrent, copy downloaded h2m-usermaps folder and paste it to game folder(where .exe's)
 
+For H1 DLC Maps - download **H1 DLCs** torrent, copy **english** folder and paste it, where another **english** folder exist, copy **.ff** files and paste where all other **.ff's** exist.
+
 Unlocking All - Download **H2M Unlock All** archive, open it, copy and paste **players2** folder to game folder(where .exe's)
 
 Enjoy!
