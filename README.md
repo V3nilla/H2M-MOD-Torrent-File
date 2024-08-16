@@ -28,6 +28,8 @@ Fixing Server List - Download updated **h2m-mod.exe** from **Working Server List
 
 Fixing Earrape Looped Intro - Download **default.bik**, copy and paste it with replacement to video(or raw/video) folder that in **root** game folder
 
+Fixing "input not supported" after starting the game - Delete **config_mp.cfg** from players2 folder
+
 Enjoy!
 
 ## FOR ANY QUESTIONS
