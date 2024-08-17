@@ -11,6 +11,8 @@ Hello everyone. Lxstwxrden here, i created a torrents to make gamers life - easi
 
 After downloading the game and all files, please, uncheck **Read Only** option from all files that are in players2 folder
 
+IF YOUR ANTIVIRUS DELETED .exe WITH WACATAC REASON, ITS 100% FALSE POSITIVE. ALL FILES DOESNT CONTAIN ANY VIRUSES
+
 ------------------------------------------
 
 Video Installation - https://www.youtube.com/watch?v=wDvk1dGwLTw
