@@ -17,6 +17,8 @@ Screenshot proof, that client is alive and you're able to play - https://steamco
 
 **BE SURE TO DOWNLOAD H2M RECENT PATCH AFTER DOWNLOADING FULL GAME**
 
+**PATCH INCLUDES - MISSING FILES, UPDATED H2M-MOD.EXE WITH WORKING MASTER-SERVER AND SERVER LIST, A FIX FOR EARRAPE LOOPED INTRO**
+
 ------------------------------------------
 
 Video Installation - https://www.youtube.com/watch?v=wDvk1dGwLTw
