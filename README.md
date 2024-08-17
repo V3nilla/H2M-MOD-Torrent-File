@@ -29,6 +29,8 @@ For H1 DLC Maps - Download **H1 DLCs** torrent, copy **english** folder and past
 
 Unlocking All - Download **H2M Unlock All** archive, open it, copy and paste **players2** folder to game folder(where .exe's)
 
+## Fixing various game errors
+
 Fixing Server List - Download updated **h2m-mod.exe** from **Working Server List** folder, copy and paste with replacement to **root** game folder 
 
 Fixing Earrape Looped Intro - Download **default.bik**, copy and paste it with replacement to video(or raw/video) folder that in **root** game folder
@@ -36,6 +38,8 @@ Fixing Earrape Looped Intro - Download **default.bik**, copy and paste it with r
 Fixing "input not supported" after starting the game - Delete **config_mp.cfg** from players2 folder
 
 Fixing "...couldn't write a file" error - delete **hidden _h1Exe** and **dw-dev-ca.crt** files in **root** game folder
+
+------------------------------------------
 
 Enjoy!
 
