@@ -29,7 +29,7 @@ Just download **H1 + H2M by lxstwxrden** torrent with full game, open downloaded
 
 If you already have installed copy of the game - Just download **H2M-MOD Files** torrent, open downloaded folder, copy all files from downloaded folder, and paste into the game folder and open **h2m-mod.exe**
 
-For maps - Download **h2m-usermaps** torrent, copy downloaded h2m-usermaps folder and paste it to game folder(where .exe's)
+For maps - Download **h2m-usermaps** torrent, copy downloaded **h2m-usermaps** folder and paste it to game folder(where .exe's)
 
 For H1 DLC Maps - Download **H1 DLCs** torrent, copy **english** folder and paste it, where another **english** folder exist, copy **.ff** files and paste where all other **.ff's** exist.
 
