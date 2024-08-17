@@ -2,6 +2,8 @@
 
 Hello everyone. Lxstwxrden here, i created a torrents to make gamers life - easier.
 
+Screenshot proof, that this client is alive and you're able to play - https://steamcommunity.com/sharedfiles/filedetails/?id=3310594431
+
 ## Installation
 **BIG NOTE! uTorrent is a buggy shit, if you're getting **Connecting To Peers...**, uninstall uTorrent and download latest available version of qBitTorrent**
 
