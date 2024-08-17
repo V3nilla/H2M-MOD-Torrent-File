@@ -11,9 +11,11 @@ Screenshot proof, that client is alive and you're able to play - https://steamco
 
 ------------------------------------------
 
-After downloading the game and all files, please, uncheck **Read Only** option from all files that are in players2 folder
+**After downloading the game and all files, please, uncheck **Read Only** option from all files that are in players2 folder**
 
-IF YOUR ANTIVIRUS DELETED .exe WITH WACATAC REASON, ITS 100% FALSE POSITIVE. ALL FILES DOESNT CONTAIN ANY VIRUSES
+**IF YOUR ANTIVIRUS DELETED .exe WITH WACATAC REASON, ITS 100% FALSE POSITIVE. ALL FILES DOESNT CONTAIN ANY VIRUSES**
+
+**BE SURE TO DOWNLOAD H2M RECENT PATCH AFTER DOWNLOADING FULL GAME**
 
 ------------------------------------------
 
@@ -32,10 +34,6 @@ For H1 DLC Maps - Download **H1 DLCs** torrent, copy **english** folder and past
 Unlocking All - Download **H2M Unlock All** archive, open it, copy and paste **players2** folder to game folder(where .exe's)
 
 ## Fixing various game errors and bugs
-
-Fixing Server List - Download updated **h2m-mod.exe** from **Working Server List** folder, copy and paste with replacement to **root** game folder 
-
-Fixing Earrape Looped Intro - Download **default.bik**, copy and paste it with replacement to video(or raw/video) folder that in **root** game folder
 
 Fixing "input not supported" after starting the game - Delete **config_mp.cfg** from players2 folder
 
