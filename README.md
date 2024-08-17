@@ -35,6 +35,8 @@ Fixing Earrape Looped Intro - Download **default.bik**, copy and paste it with r
 
 Fixing "input not supported" after starting the game - Delete **config_mp.cfg** from players2 folder
 
+Fixing "...couldn't write a file" error - delete **hidden _h1Exe** and **dw-dev-ca.crt** files in **root** game folder
+
 Enjoy!
 
 ## FOR ANY QUESTIONS
