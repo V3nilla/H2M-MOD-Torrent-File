@@ -23,6 +23,8 @@ Screenshot proof, that client is alive and you're able to play - https://steamco
 
 Video Installation - https://www.youtube.com/watch?v=wDvk1dGwLTw
 
+Server Video Installation - https://www.youtube.com/watch?v=9uMDcPkNAWE
+
 Text Installation:
 
 Just download **H1 + H2M by lxstwxrden** torrent with full game, open downloaded game folder and open **h2m-mod.exe**
