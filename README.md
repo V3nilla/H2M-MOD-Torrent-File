@@ -55,6 +55,6 @@ Discord - lxstwxrden. (yes, with a dot)
 ## H2M DISCORD SERVERS
 H2M Backup - https://discord.gg/JxYz9kSyRs
 
-S2M - https://discord.gg/stwom
+HorizonMW - https://discord.gg/horizonmw
 
 Justeeno H2M - https://discord.gg/kz5AMmeDnB
