@@ -5,7 +5,7 @@ Hello everyone. Lxstwxrden here, i created a torrents to make gamers life - easi
 Screenshot proof, that client is alive and you're able to play - https://steamcommunity.com/sharedfiles/filedetails/?id=3310594431
 
 ## Installation
-**BIG NOTE! uTorrent is a buggy shit, if you're getting **Connecting To Peers...**, uninstall uTorrent and download latest available version of qBitTorrent**
+**BIG NOTE! uTorrent is a buggy shit, if you're getting **Connecting To Peers...**, uninstall uTorrent and download latest available version of qBitTorrent, and be sure to check DHT Function is working on qBitTorrent**
 
 **2ND BIG NOTE! MASTER-SERVER IS UP!**
 
