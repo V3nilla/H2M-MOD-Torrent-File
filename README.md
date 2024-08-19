@@ -21,7 +21,7 @@ Screenshot proof, that client is alive and you're able to play - https://steamco
 
 ------------------------------------------
 
-Video Installation - https://www.youtube.com/watch?v=wDvk1dGwLTw
+Video Installation - https://www.youtube.com/watch?v=uTY_mdciMCg
 
 Server Video Installation - https://www.youtube.com/watch?v=9uMDcPkNAWE
 
