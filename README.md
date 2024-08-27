@@ -45,7 +45,7 @@ Fixing "input not supported" after starting the game - Delete **config_mp.cfg** 
 
 Fixing "...couldn't write a file" error - delete **hidden _h1Exe** and **dw-dev-ca.crt** files in **root** game folder
 
-If you are still experiencing problems with servers displaying in the Server List, download **favourites.json** in **Fixing Servers** folder, copy and paste this file to **root** game folder
+If you are still experiencing problems with servers displaying in the Server List, download **favourites.json** in **Fixing Servers** folder, copy and paste this file to **players2** folder that are in **root** game folder
 
 ------------------------------------------
 
