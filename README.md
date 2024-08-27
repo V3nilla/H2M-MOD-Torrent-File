@@ -31,7 +31,7 @@ Text Installation:
 
 Just download **H1 + H2M by lxstwxrden** torrent with full game, after that - download **H2M Recent Patch**, copy everything from downloaded archive and paste it to the root game folder, and open **h2m-mod.exe**
 
-If you already have installed copy of the game - Just download **H2M-MOD Files** torrent, open downloaded folder, copy all files from downloaded folder, and paste into the game folder, after that - download **H2M Recent Patch**, copy everything from downloaded archive and paste it to the root game folder, and open **h2m-mod.exe**
+If you already have installed copy of the game - Just download **H2M-MOD Files** torrent, open downloaded folder, copy all files from downloaded folder, and paste into the game folder, after that - download **H2M Recent Patch**, copy everything from downloaded archive and paste it to the **root** game folder, after that download **favourites.json** in **Fixing Servers** folder, copy and paste this file to **players2** folder that are in **root** game folder and open **h2m-mod.exe**
 
 For maps - Download **h2m-usermaps** torrent, copy downloaded **h2m-usermaps** folder and paste it to game folder(where .exe's)
 
